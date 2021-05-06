@@ -31724,7 +31724,7 @@ $iw:1}
 P.Gh.prototype={}
 P.Gi.prototype={}
 F.yZ.prototype={
-K:function(a,b){return new S.q7(new F.qo("Brain quiz",null),"Flutter Demo",X.a5w(null,C.m6),null)}}
+K:function(a,b){return new S.q7(new F.qo("Brain quiz",null),"Brain Quiz",X.a5w(null,C.m6),null)}}
 F.qo.prototype={
 au:function(){return new F.EE(C.l)}}
 F.EE.prototype={
@@ -31737,7 +31737,7 @@ b0:function(){var s,r=null
 this.bm()
 s=t.tA
 this.d=H.b([new T.dp(C.ay,L.hz("R",A.ef(r,r,r,r,r,r,r,r,r,r,r,40,r,r,r,5,!0,r,r,r,r,r,r)),new D.cx("R",s)),new T.dp(C.ay,L.hz("b",A.ef(r,r,r,r,r,r,r,r,r,r,r,40,r,r,r,5,!0,r,r,r,r,r,r)),new D.cx("b",s)),new T.dp(C.ay,L.hz("i",A.ef(r,r,r,r,r,r,r,r,r,r,r,40,r,r,r,5,!0,r,r,r,r,r,r)),new D.cx("i",s)),new T.dp(C.ay,L.hz("b",A.ef(r,r,r,r,r,r,r,r,r,r,r,40,r,r,r,5,!0,r,r,r,r,r,r)),new D.cx("b",s)),new T.dp(C.ay,L.hz("a",A.ef(r,r,r,r,r,r,r,r,r,r,r,40,r,r,r,5,!0,r,r,r,r,r,r)),new D.cx("a",s)),new T.dp(C.ay,L.hz("t",A.ef(r,r,r,r,r,r,r,r,r,r,r,40,r,r,r,5,!0,r,r,r,r,r,r)),new D.cx("t",s))],t.fQ)},
-K:function(a,b){var s=null,r=L.hz("Put the letters into the right order so that the animals are correctly formed",A.ef(s,s,s,s,s,s,s,s,s,s,s,15,s,s,s,1.5,!0,s,s,s,s,s,s)),q=A.aeH(this.d,C.iz,!1,new B.XX(),new B.XV(this)),p=this.e?L.hz("Correct!",A.ef(s,s,C.wE,s,s,s,s,s,s,s,s,40,s,s,s,5,!0,s,s,s,s,s,s)):M.p_(s,s,s,s,s,s,s,s,s)
+K:function(a,b){var s=null,r=L.hz("Put the letters into the right order so that the animals are correctly formed",A.ef(s,s,s,s,s,s,s,s,s,s,s,17,s,s,s,1.5,!0,s,s,s,s,s,s)),q=A.aeH(this.d,C.iz,!1,new B.XX(),new B.XV(this)),p=this.e?L.hz("Correct!",A.ef(s,s,C.wE,s,s,s,s,s,s,s,s,40,s,s,s,5,!0,s,s,s,s,s,s)):M.p_(s,s,s,s,s,s,s,s,s)
 return T.a3D(H.b([new T.dp(C.ay,r,s),q,p],t.fQ),C.jP,C.m5)}}
 B.XV.prototype={
 $2:function(a,b){var s=this.a
